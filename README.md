@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adubaur
-- 👀 I’m interested in too many things but mostly video game development and general computer science
-- 🌱 I’m currently learning Lua, Python, and DSA, but I have found an interest in learning Ruby as well as its popular framework, Ruby on Rails
+- 👀 I’m interested in video game development and software engineering related to video games
+- 🌱 I’m currently learning Lua and working on learning better file management and organization
 - 💞️ I’m looking to collaborate on Roblox games and other beginner friendly open source projects 
 - 📫 How to reach me:
 
