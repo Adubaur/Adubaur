@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @Adubaur
-- 👀 I’m interested in video game development and software engineering related to video games
-- 🌱 I’m currently learning Lua and working on learning better file management and organization
+- 👀 I’m interested in Cybersecurity and cloud computing
+- 🌱 I’m currently learning Python, Software testing techniques, and 
 - 💞️ I’m looking to collaborate on beginner friendly open source projects related to the cloud and similar technologies
 - 📫 How to reach me:
-
 LinkedIn: https://www.linkedin.com/in/ashton-robinson-a751bb24a/ 
-
 Discord: Adubaur#8499
 
 <!---
