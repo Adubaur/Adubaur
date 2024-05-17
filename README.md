@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Adubaur
 - 👀 I’m interested in video game development and software engineering related to video games
 - 🌱 I’m currently learning Lua and working on learning better file management and organization
-- 💞️ I’m looking to collaborate on Roblox games and other beginner friendly open source projects 
+- 💞️ I’m looking to collaborate on beginner friendly open source projects related to the cloud and similar technologies
 - 📫 How to reach me:
 
-Twitter: @Adubaur 
+LinkedIn: https://www.linkedin.com/in/ashton-robinson-a751bb24a/ 
 
 Discord: Adubaur#8499
 
